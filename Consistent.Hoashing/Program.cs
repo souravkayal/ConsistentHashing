@@ -81,7 +81,6 @@ namespace ConsistentHashingApp
                 var node = consistentHashing.GetNode(data);
                 
                 Console.WriteLine($"Hash value:{consistentHashing.GetHash(data)}    Stores: {node.Name}");
-
             }
 
             Console.ReadLine();

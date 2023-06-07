@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Consistent.Hoashing/1.0.0": {
+        "runtime": {
+          "Consistent.Hoashing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consistent.Hoashing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
